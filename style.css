@@ -1,0 +1,151 @@
+        :root {
+            --primary: #4a9d8a;
+            --secondary: #e8c07d;
+            --dark: #2d3436;
+            --light: #f9f5e9;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: var(--dark);
+            background-color: var(--light);
+        }
+        
+        /* Header */
+        header {
+            background: linear-gradient(135deg, var(--primary), #3a7d6d);
+            color: white;
+            text-align: center;
+            padding: 4rem 1rem;
+        }
+        
+        .blog-title {
+            font-size: 2.8rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .blog-slogan {
+            font-size: 1.2rem;
+            opacity: 0.9;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        
+        /* Main Content */
+        .main-content {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 0 1.5rem;
+        }
+        
+        .intro-section {
+            margin-bottom: 3rem;
+        }
+        
+        .content-title {
+            color: var(--primary);
+            font-size: 2.2rem;
+            margin-bottom: 1rem;
+			text-align: center;
+        }
+		
+		h3 {
+       color: var(--primary); /* тот же цвет, что и у h2 */
+       font-size: 1.6rem; /* немного меньше, чем у h2 (1.8rem) */
+       display: inline-block;
+       font-weight: 700; /* можно сделать немного легче, если у h2 bold */
+    }
+        
+        .content-text {
+            margin-bottom: 1.5rem;
+            font-size: 1.1rem;
+        }
+        
+        /* Articles List */
+        .articles-list {
+            list-style: none;
+            margin-top: 2rem;
+        }
+        
+        .articles-list li {
+            margin-bottom: 1.2rem;
+            border-left: 3px solid var(--secondary);
+            padding-left: 1rem;
+            transition: all 0.3s ease;
+        }
+        
+        .articles-list li:hover {
+            border-left-width: 6px;
+            padding-left: 1.2rem;
+        }
+        
+        .article-link {
+            color: var(--dark);
+            text-decoration: none;
+            font-size: 1.1rem;
+            display: block;
+        }
+        
+        .article-date {
+            display: block;
+            font-size: 0.85rem;
+            color: #666;
+            margin-top: 0.3rem;
+        }
+        
+        /* Footer */
+        footer {
+            background-color: var(--dark);
+            color: white;
+            text-align: center;
+            padding: 2rem 1rem;
+            margin-top: 3rem;
+        }
+        
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            gap: 1.5rem;
+            margin: 1rem 0;
+        }
+        
+        .footer-links a {
+            color: white;
+            text-decoration: none;
+        }
+        
+        .footer-links a:hover {
+            color: var(--secondary);
+        }
+        
+        .copyright {
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+        
+        @media (max-width: 768px) {
+            .blog-title {
+                font-size: 2rem;
+            }
+            
+            .blog-slogan {
+                font-size: 1rem;
+            }
+            
+            .content-title {
+                font-size: 1.5rem;
+            }
+        }
+		/* Для мобильных устройств */
+@media (max-width: 768px) {
+    h3 {
+        font-size: 1.3rem; /* адаптивный размер */
+    }
+}
