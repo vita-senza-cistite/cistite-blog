@@ -30,8 +30,7 @@ Puoi leggere gli articoli in ordine o saltare direttamente ai titoli che ti inte
 
 ---
 
-📌 _Le parole qui dentro non sostituiscono mai il parere di un medico._  
-💬 _Ma forse ti faranno sentire più accompagnatə._
+📌 Tutto ciò che trovi qui si basa sulla mia esperienza personale e non sostituisce in alcun modo il parere di un medico.
 
 Grazie di essere qui.  
 _Rita_
