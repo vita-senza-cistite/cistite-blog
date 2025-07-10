@@ -1,32 +1,37 @@
-🌸 **Perdere peso senza dolore** — un blog personale di Rita Scott  
-_Un blog per chi vuole sentirsi meglio nel proprio corpo_
+# Vita senza cistite
+
+_Blog personale di Rita — un percorso semplice, onesto e concreto per chi vive o ha vissuto il problema della cistite._
+
+## Chi sono
+
+Mi chiamo **Rita**, ho 45 anni, tre figli, un nipotino e una vita piena di orto, cucito, famiglia e cose da fare. Per anni ho convissuto con la cistite, in silenzio, cercando risposte tra farmaci, rimedi naturali e tanti tentativi a vuoto. Poi ho deciso di fermarmi, ascoltare il mio corpo e condividere il mio percorso.
+
+Non sono un medico, non sono una scrittrice. Scrivo come parlo: con semplicità e verità.
+
+## Perché questo blog
+
+Perché la cistite è un problema reale, spesso sottovalutato o banalizzato. E perché tante persone, come me, cercano informazioni vere, racconti sinceri e consigli pratici, senza promesse vuote.
+
+Qui troverai:
+
+- Esperienze vissute e soluzioni che hanno funzionato (o no).
+- Piccoli accorgimenti quotidiani.
+- Articoli semplici, scritti da chi ci è passato davvero.
+- Nessuna pubblicità, nessun linguaggio complicato.
+
+## A chi è rivolto
+
+A chi vuole capire, gestire, o semplicemente sentirsi meno solə.  
+A chi cerca parole normali su un tema spesso taciuto.
+
+## Come usare questo blog
+
+Puoi leggere gli articoli in ordine o saltare direttamente ai titoli che ti interessano. Tutti i contenuti sono scritti da me, aggiornati nel tempo e aperti a chi vuole leggere senza giudicare.
 
 ---
 
-Questo spazio nasce da un’esperienza reale, senza filtri. Non è un piano perfetto, né una lista di regole. È il racconto di un percorso fatto di errori, scoperte e piccoli cambiamenti.
+📌 _Le parole qui dentro non sostituiscono mai il parere di un medico._  
+💬 _Ma forse ti faranno sentire più accompagnatə._
 
-👩‍🦰 Mi chiamo Rita, lavoro come modella e ho vissuto sulla mia pelle cosa significa prendere peso e non riconoscersi più.  
-Come tanti, ho provato diete drastiche, allenamenti pesanti, strategie che promettevano risultati rapidi… e invece lasciavano solo frustrazione.
-
-🪷 A un certo punto ho cambiato rotta. Ho scelto abitudini più sane, l’aiuto di una nutrizionista, e tanta pazienza.  
-Il risultato? Non solo qualche chilo in meno, ma più serenità. E un modo nuovo di vedermi.
-
-✏️ In questo blog condivido:
-- esperienze vere, senza estremismi  
-- consigli pratici, basati su quello che ha funzionato per me  
-- riflessioni sul corpo, sul cibo e sull'autostima  
-- idee per uno stile di vita sostenibile, senza sensi di colpa
-
-🌿 Se anche tu stai cercando una voce sincera in mezzo al rumore delle promesse miracolose, forse qui potresti sentirti meno sola — o meno solo.
-
----
-
-🔗 **Sito web:**  
-[Perdere peso senza dolore](https://strategia-dimagrante.github.io/non-solo-diete/)
-
-📬 **Contatto:**  
-rita.scott.beauty@gmail.com
-
----
-
-_Le informazioni contenute in questo blog non sostituiscono il parere medico. Sono frutto di esperienze personali condivise con rispetto._
+Grazie di essere qui.  
+_Rita_
