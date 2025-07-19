@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vita-senza-cistite.github.io/cistite-blog/sitemap.xml
